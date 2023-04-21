@@ -45,15 +45,15 @@
 	<div class="header">
 	
 		<div class="logo">
-			<p>СахГУ</p>
+			<p>Elysa4t</p>
 		</div>
 			
 		<div class="navigation">
-			<li><a href="#" style="background: #a2231d;border-radius: 5px;padding:10px">Главная</a></li>
-			<li><a href="#">Архив</a></li>
-			<li><a href="#">Галерея</a></li>
-			<li><a href="#">Об учреждение</a></li>
-			<li><a href="#">Контакты</a></li>
+			<li><a href="#" style="background: #a2231d;border-radius: 5px;padding:10px">Home</a></li>
+			<li><a href="#">Archives</a></li>
+			<li><a href="#">Gallery</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Contact</a></li>
 		</div>
 		
 	</div>	
@@ -64,7 +64,7 @@
 		</div>
 			
 		<div class="banner-text">
-			<p>Дом в лесу с панорамными окнами</p>
+			<p>Magna sed phasellus consequat lorem ipsum dolor</p>
 		</div>	
 	</div>
 	
@@ -74,10 +74,10 @@
 			<div class="block1">
 			
 				<div class="block1-info">
-					<p>Опубликовано <a href="">мной</a> 07 апреля 2023г</p>
+					<p>Posted by <a href="">Someone</a> on April 14, 2012</p>
 				</div>
 				
-				<h1>Сахалинский государственный университет</h1>
+				<h1>Lorem ipsum sed veroeros amet</h1>
 
 				<div class="block1-image">
 					<img src="block1-image.jpg" alt="">
@@ -85,13 +85,13 @@
 				
 				<div class="block1-text">
 					<p>
-						Основан в 1949 году (на основании распоряжения Совета министров РСФСР от 17 декабря 1948 года) как Южно-Сахалинский учительский институт, преобразованный в 1954 году в Южно-Сахалинский государственный педагогический институт. Изначально располагался в деревянном японском здании. 13 октября 1961 года в новом четырёхэтажном здании по ул. Ленина, 290 был торжественно открыт главный учебный корпус. В 1998 году преобразован в Сахалинский государственный университет, к которому было присоединено три колледжа, расположенных на территории Сахалинской области: Южно-Сахалинский педагогический, Александровск-Сахалинский и Сахалинский театральный. В 1999 году в состав университета вошел юридический факультет (филиал) ДВГУ, ныне Юридический институт СахГУ.
+						Nam vestibulum hendrerit orci, sed pharetra elit elementum in. Donec in eros sed odio varius tempus. Vestibulum quis quam et velit rutrum ornare nec a massa. Curabitur malesuada ullamcorper nunc in suscipit. Donec semper venenatis dui sed facilisis. Morbi congue facilisis ante in feugiat. Mauris consectetur magna eu enim sagittis et bibendum lacus imperdiet. Maecenas semper massa ac odio ornare sodales. Nunc rhoncus vulputate nisi sed malesuada. Fusce ac mauris dui, id luctus ligula. Integer hendrerit.
 					</p>
 				</div>
 				
 				<div class="block1-comments">
-					<p>Опубликованые <a href="#"> Новости,<a href="#"><a href="#"> Дизайны,</a><a href="#"> Другое</a></p>
-					<p><a href="#">7777 комментов</a></p>
+					<p>Posted in <a href="#"> News,<a href="#"><a href="#"> Design,</a><a href="#"> Other</a></p>
+					<p><a href="#">235 Comments</a></p>
 				</div>
 	
 			</div>
@@ -99,31 +99,33 @@
 			<div class="block2">
 					
 					<div class="block2-info">
-						<p>О СахГУ</p>
+						<p>About Elysa4t</p>
 					</div>
 
 					<div class="block2-text">
 						<p>
-							Добро пожаловать на страницу Сахалинского государственного университета. Учеба, наука, внеучебная жизнь - все самое интересное из эпицентра событий. Без критиканства, но с долей иронии. :)
+							Mauris consectetur magna eu enim sagittis et bibendum lacus imperdiet. Maecenas semper massa amet et odio mauris dui, id luctus amet ligula.
 						</p>
 					</div>
 
-					<div class="block2-info"><p>Структура университета</p></div>
+					<div class="block2-info"><p>Recent Post</p></div>
 
 					<div class="block2-links">
 						<ul>
-							<li><a href="">ИФИиВ</a></li>
-							<li><a href="">ИПиП</a></li>
-							<li><a href="">ИЕНиТБ</a></li>
-							<li><a href="">ТНИ</a></li>
-							<li><a href="">ИПЭиУ</a></li>
+							<li><a href="">Hendrerit orci sed pharetra elit</a></li>
+							<li><a href="">Donec in eros odio varius tempus</a></li>
+							<li><a href="">Vestibulum quis quam et velit</a></li>
+							<li><a href="">Rutrum ornare nec sed curabitur</a></li>
+							<li><a href="">Malesuada ullamcorper nunc</a></li>
 						</ul>
 					</div>
 
-					<div class="block2-info"><p>Что-то ещё</p></div>
+					<div class="block2-info"><p>Something Else</p></div>
 
 					<div class="block2-text">
-						<p>В 1989 году между Хоккайдским университетом и Южно-Сахалинским педагогическим институтом был заключен первый международный договор о сотрудничестве. С этого момента началась международная деятельность будущего СахГУ.</p>
+						<p>
+							Mauris consectetur magna eu enim sagittis et bibendum lacus imperdiet. Maecenas semper massa amet et odio mauris dui, id luctus amet ligula.
+						</p>
 					</div>
 			</div>
 			
@@ -135,18 +137,18 @@
 		<div class="block3">
 			
 			<div class="block3-text">
-				<h1>Виджеты</h1>
-				<p>С помощью этого виджета можно отобразить заметный блок с текстовой информацией. Можно поменять заголовок, указать основной и дополнительный тексты и добавить внизу ссылку.</p>
+				<h1>Just another widget</h1>
+				<p>Mauris consectetur magna tempus enim sagittis et bibendum lacus et imperdiet. Maecenas semper et massa amet et odio mauris dui, id luctus amet ligula.<p>
 			</div>
 
 			<div class="block3-text">
-				<h1>Виджеты</h1>
-				<p>С помощью этого виджета можно отобразить заметный блок с текстовой информацией. Можно поменять заголовок, указать основной и дополнительный тексты и добавить внизу ссылку.</p>
+				<h1>Just another widget</h1>
+				<p>Mauris consectetur magna tempus enim sagittis et bibendum lacus et imperdiet. Maecenas semper et massa amet et odio mauris dui, id luctus amet ligula.</p>
 			</div>
 
 			<div class="block3-text">
-				<h1>Виджеты</h1>
-				<p>С помощью этого виджета можно отобразить заметный блок с текстовой информацией. Можно поменять заголовок, указать основной и дополнительный тексты и добавить внизу ссылку.</p>
+				<h1>Just another widget</h1>
+				<p>Mauris consectetur magna tempus enim sagittis et bibendum lacus et imperdiet. Maecenas semper et massa amet et odio mauris dui, id luctus amet ligula.</p>
 			</div>
 			
 		</div>
@@ -155,7 +157,7 @@
 	<footer>
 		
 		<div class="footer-info">
-			<p>Мой WebSite о СахГу | SakhGU by <a href=""> Maksim </a>| Photos by <a href=""> direction</a></p>
+			<p>&copy; Your Website Name | Elysa4T by <a href=""> 4Templates </a>| Photos by <a href=""> Fotogrph</a></p>
 		</div>
 		
 	</footer>
@@ -167,8 +169,10 @@
 2)CSS
 
 ```html
+@import url('https://fonts.googleapis.com/css?family=Cookie');
+@import url('https://fonts.googleapis.com/css?family=Arvo');
 body {
-	font-family: CURSIVE;
+	font-family: "Arvo", CURSIVE;
 	font-size: 13px;
 }
 
@@ -194,8 +198,8 @@ body {
 	text-align:center;
 	padding:15px;
 	color: white;
-	font-size: 50px;
-	font-family: CURSIVE;	
+	font-size: 60px;
+	font-family: "Cookie", CURSIVE;	
 }
 
 .navigation li {
@@ -230,7 +234,8 @@ body {
 
 .banner-image {
 	margin-top:20px;
-	text-align: center;		
+	text-align: center;	
+	margin-bottom:-5px;
 }
 
 .banner-text {
@@ -242,8 +247,8 @@ body {
 	padding:15px;
 	text-align: center;
 	color: white;
-	font-size:30px;
-	font-family:cursive;
+	font-size:40px;
+	font-family:"Cookie", cursive;
 }	
 
 
@@ -252,7 +257,7 @@ body {
 
 }
 .main-block {
-	max-width: 1000px;
+	max-width: 960px;
 	margin:auto;
 	display: flex;
 	padding: 30px;
@@ -264,7 +269,7 @@ body {
 	max-width: 650px;
 	padding: 20px;
 	margin-right: 20px;
-	border-radius: 10px;
+	border-radius: 5px;
 }
 
 .block1-info {
@@ -289,9 +294,9 @@ body {
 }
 
 .block1 h1 {
-	padding: 30px;
-	font-size: 30px;
-	color: #a2231d;
+	padding: 10px;
+	font-size: 40px;
+	color: #4e2b22;
 	font-family: serif;
 	font-weight: 400;
 }
@@ -305,7 +310,7 @@ body {
 	border-radius: 5px;
 }
 .block1-text {
-	padding: 30px;
+	padding: 10px;
 }
 .block1-text p {
 	font-size: 15px;	
@@ -326,18 +331,18 @@ body {
 }
 .block1-comments p {
 	color: black;
-	font-size: 15px;	
+	font-size: 18px;	
 }
 
 .block1-comments a {
 	color: black;
-	font-size: 15px;
+	font-size: 18px;
 }
 
 .block2 {
 	width: 300px;
 	background: url("block2.png");
-	border-radius: 10px;
+	border-radius: 5px;
 	
 }
 .block2-info {
@@ -349,18 +354,16 @@ body {
 .block2-info p {
 	color: white;
 	margin-left: 30px;
-	font-size: 15px;
+	font-size: 17px;
 	font-family: serif;
-
 }
 
 
 .block2-text p {
-	color: #ddadaf ;
+	color: #e1c9c4 ;
 	font-size: 15px;
 	padding:20px;
 	line-height: 1.6;
-	font-weight: 100;
 	text-align:justify;
 }
 
@@ -378,7 +381,7 @@ body {
 .block2-links ul li a {
 	text-decoration: none;
 	color: white;
-	font-size: 15px;
+	font-size: 13px;
 }
 
 .block3-image {
@@ -387,7 +390,7 @@ body {
 }
 
 .block3 {
-	max-width: 1000px;
+	max-width: 1020px;
 	margin: auto;
 	display: flex;
 	justify-content: space-around;
@@ -409,7 +412,7 @@ body {
 }
 
 .block3-text p {
-	color: #ddadaf;
+	color: #e1c9c4;
 	font-family:sans-serif;
 	margin-top: 20px;
 	line-height: 2;
@@ -426,7 +429,7 @@ footer {
  footer p,
  footer a {
 	margin-top:60px;
- 	color: #d8b1bf;
+ 	color: #e1c9c4;
  }
 ```
 
